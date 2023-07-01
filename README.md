@@ -1,8 +1,8 @@
 ## Who am i ?
 dedede
 
-## Music 🎵
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=nnbypiv2afuxwi0mxdzxt713e&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+## Steam 
+[![Mon profil Steam](https://img.shields.io/badge/Steam-Profile-blue?logo=steam)](https://steamcommunity.com/id/VyOk9)
 
 ## Woah !
 <div>
