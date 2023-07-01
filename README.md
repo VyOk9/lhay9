@@ -1,6 +1,8 @@
 ## Who am i ?
 dedede
 
+![Profil Views](https://komarev.com/ghpvc/?username=lhay9)
+
 ## Steam 
 [![Mon profil Steam](https://img.shields.io/badge/Steam-Profile-blue?logo=steam)](https://steamcommunity.com/id/VyOk9)
 
